@@ -94,7 +94,7 @@ The dashboard displays:
 
 A short demonstration video shows the complete setup, live data logging, and the Adafruit dashboard.
 
-👉 **[Demo Video Link](https://drive.google.com/file/d/1u36vJzkR97-bo2GQL8OaG67ndW62gIG_/view?usp=drivesdk)**
+👉 **[Demo Video Link](https://drive.google.com/file/d/1Hh6WwxriaWSFyX_Qf9DeX8aygh0n4Our/view?usp=drivesdk)**
 
 The video includes:
 
