@@ -66,7 +66,7 @@ The code performs:
 * WiFi connection
 * MQTT connection to Adafruit IO
 * Reading temperature and humidity
-* Publishing data every 1 second
+* Publishing data every 5 second
 * Serial Monitor logging
 
 ---
